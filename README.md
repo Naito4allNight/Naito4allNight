@@ -3,7 +3,8 @@
 I am a university student and web development enthusiast with a strong focus on building immersive digital experiences. My current work centers on bridging the gap between front-end architectures and 3D rendering engines directly in the browser, while actively exploring game development.
 
 <div>
-  <p>If you want to know more: </p>
+  <p>If you want to know more about me and my projects: https://naitoportfolio.vercel.app/home </p>
+  <p> Also you can follow me on X: </p>
   <a href="https://x.com/Naito4allnight" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile" />
   </a>
